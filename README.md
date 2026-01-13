@@ -1,2 +1,2 @@
 # RW-Search
-RWSearch: A High-Order Logic and Real-Time Search Evaluation Benchmark for Agents 
+RWSearch: A High-Order Logic and **R**eal-**W**orld Search Evaluation Benchmark for Agents.

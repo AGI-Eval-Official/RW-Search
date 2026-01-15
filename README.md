@@ -112,7 +112,7 @@ RWSearch is a rigorous benchmark designed to deeply evaluate the cognitive depth
   <tr>
     <td rowspan="5">Open Source</td>
     <td>longcat-flash-thinking-2601</td>
-    <td><u>79.5</u></td>
+    <td><b>79.5</b></td>
   </tr>
   <tr>
     <td>deepseek-v3.2-reasoner</td>
@@ -135,7 +135,7 @@ RWSearch is a rigorous benchmark designed to deeply evaluate the cognitive depth
   </tr>
 </table>
 
-> **Bold** indicates best performance among proprietary models, <u>underline</u> indicates best performance among open source models.
+> **Bold** indicates best performance among similar models.
 
 ### Search Agents (w/ context management)
 Coming soon...

@@ -116,7 +116,7 @@
   <tr>
     <td rowspan="5">开源模型</td>
     <td>longcat-flash-thinking-2601</td>
-    <td><u>79.5</u></td>
+    <td><b>79.5</b></td>
   </tr>
   <tr>
     <td>deepseek-v3.2-reasoner</td>
@@ -139,7 +139,7 @@
   </tr>
 </table>
 
-> 指标**加粗**代表闭源模型中的最优表现，<u>下划线</u>代表开源模型中的最优表现。
+> 指标**加粗**代表同类型模型中的最优表现。
 
 ### Search Agent榜单（w/ 上下文管理）
 敬请期待...

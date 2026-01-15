@@ -3,7 +3,7 @@
 </p>
 
 # RW-Search
-RWSearch: A High-Order Logic and **R**eal-**W**orld **Search** Evaluation Benchmark for Agents.
+**RWSearch: A High-Order Logic and Real-World Search Evaluation Benchmark for Agents.**
 
 RWSearch is a rigorous benchmark designed to deeply evaluate the cognitive depth, multi-dimensional retrieval, long-chain reasoning, and precise computational execution capabilities of LLMs and their Agents within a Chinese linguistic context.
 

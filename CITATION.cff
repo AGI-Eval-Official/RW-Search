@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "如果使用本项目的代码/资源，请按以下格式引用。"
+
+authors:
+  - family-names: "Zhu"
+    given-names: "Mingyang"
+  - family-names: "Liu" 
+    given-names: "Wei"  
+    github: "LaJY-ring" 
+  - family-names: "Wang"
+    given-names: "Ziwen"
+  - family-names: "Qiu"
+    given-names: "Lin"
+  - family-names: "Cao"
+    given-names: "Xuezhi"
+
+title: "RW-Search"         
+version: "main"             
+url: "https://github.com/AGI-Eval-Official/RW-Search"
+date-released: "2026-01-15"    
+keywords:
+  - Benchmark for Agentic Search
+  - Search Agent
+license: "MIT"

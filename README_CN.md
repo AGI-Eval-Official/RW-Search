@@ -172,7 +172,7 @@
 
 ```bibtex
 @misc{rwsearch2026,
-  author       = {Zhu, Mingyang and Liu, Wei and others},
+  author       = {Mingyang Zhu and Wei Liu and Ziwen Wang and Lin Qiu and Xuezhi Cao},
   title        = {RW-Search: A High-Order Logic and Real-World Search Evaluation Benchmark for Agents},
   year         = {2026},
   url          = {https://github.com/AGI-Eval-Official/RW-Search}

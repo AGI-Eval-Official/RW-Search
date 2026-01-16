@@ -162,9 +162,6 @@ RWSearch is a rigorous benchmark designed to deeply evaluate the cognitive depth
 
 > **Bold** indicates best performance among similar models.
 
-### Search Agents (w/ context management)
-Coming soon...
-
 ## 📖 Citation
 
 If you use the code or resources from this project, please cite as follows:

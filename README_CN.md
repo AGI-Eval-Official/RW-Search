@@ -156,10 +156,6 @@
     <td>63.0</td>
   </tr>
   <tr>
-    <td>qwen3-235b-a22b-thinking-2507</td>
-    <td>20.5</td>
-  </tr>
-  <tr>
     <td colspan="3" align="center"><i>更多模型指标敬请期待...</i></td>
   </tr>
 </table>

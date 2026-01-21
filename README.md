@@ -152,10 +152,6 @@ RWSearch is a rigorous benchmark designed to deeply evaluate the cognitive depth
     <td>63.0</td>
   </tr>
   <tr>
-    <td>qwen3-235b-a22b-thinking-2507</td>
-    <td>20.5</td>
-  </tr>
-  <tr>
     <td colspan="3" align="center"><i>More model results coming soon...</i></td>
   </tr>
 </table>
